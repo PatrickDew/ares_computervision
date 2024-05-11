@@ -1,0 +1,12 @@
+names:
+- Hammer
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: ares
+  url: https://universe.roboflow.com/teambased-engineering-invention/ares/dataset/2
+  version: 2
+  workspace: teambased-engineering-invention
+test: test/images
+train: train/images
+val: valid/images
